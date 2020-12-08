@@ -29,7 +29,11 @@ I primarily used the _[HATHI TRUST Digital library](https://www.hathitrust.org)_
 My first few searches resulted in thousands of hits, which wasn't useful since I will have to read through the texts to find what is relevant to my question. Hathi has support for advanced searches using tools boolean operators to match words and the ability to only get search results written in a particular language and in a certain time period. This allowed me to narrow down my search to only include texts in English published in the 18th century, which is the time period Kant was alive. 
 
 Using the advanced search tools, I was able to narrow down my results from thousands of hits to just 12 (sucess!). If you'd like to replicate my narrowed search, simply click [here](https://catalog.hathitrust.org/Search/Home?adv=1&lookfor%5B%5D=apriori&type%5B%5D=all&lookfor%5B%5D=knowledge&type%5B%5D=all&bool%5B%5D=OR&lookfor%5B%5D=learning&type%5B%5D=all&bool%5B%5D=AND&lookfor%5B%5D=paradox&type%5B%5D=all&bool%5B%5D=OR&yop=between&fqor-language%5B%5D=English&fqrange-start-publishDateTrie-1=1700&fqrange-end-publishDateTrie-1=1804) Or if you'd like to replicate it manually yourself, here is a screenshot of the parameters I passed in the advanced search tool:
+![Image](images/SearchParams.png)
 
-![Image](/Users/gonzo/Documents/PH310/18th-Century-Theories-of-Knowledge/images/SearchParams.png)
+Here's a screenshot of the results you get by running this search:
+![Image](images/SearchResults.png)
+
+As you can see, this search only brings up 12 hits, which is much more manageable. Quickly skimming through the titles and content of some of the texts this search surfaced (I'm looking at you text about Shakespeare!), we can see that not all of them are relevant to the question. I have focused on the three texts highlighted in the screenshot above, and will analyze them in more detail below. 
 
 
