@@ -81,3 +81,14 @@ This collection, which Edmund presents to the _Royal  Society_, begins with a pr
 In the next page, Edmund exclaims how despite such ignorance, everyday people use scientific discoveries to aid them in their life. He uses sailors as an example, using the stars to navigate, and yet they hold no knowledge of the astronomer and geometricist who came up with the theories to make this type of navigation possible. 
 
 ![Image](https://babel.hathitrust.org/cgi/imgsrv/image?id=hvd.hxkm2p;seq=16;size=250;rotation=0)
+
+# In Conclusion
+ And the answer is...well...it's complicated.
+
+Like all things in philosophy, we never really have a clear answer to things, but at least now we have a clearer perspective of the arguments that existed at the time. 
+
+It seems that while some philosophers and thinkers in the 18th century were concerned with theories of knowledge and learning, none of them held a counter-theory or argument to explain how we should deal with our limits on knowledge. Most were concerned with God and using him as an answer to everything, as we've seen with Norris and Baker, but these ideas weren't exactly Novel at the time as Descartes and Spinoza had previously presented arguments for the existence of God and why God is the cause of all things. 
+
+While Halley's text stands in contrast to the other two, it isn't a philosophical approach to learning and knowledge and does not confront the issues that plague our limited understanding of the world. 
+
+When concerned with the 18th century and limiting ourselves only to texts in English, we can see that while Kant's issues with knowledge weren't anything new, it's his arguments concerning math and _a posteriori / a priori_ knowledge that are novel. However, we must consider the limitations that our answer is constrained to since we are unable to explore texts in German and Latin, texts that were much more accessible to Kant and were more likely to influence his arguments. 
