@@ -14,5 +14,10 @@ Some questions that this made me curious about was the connection between Kant�
 
 ### _Was he influenced by the ideas of ancient philosophers? Were there any other philosophers during his time that held a similar view of mathematics as he did? Or were his ideas more novel? If not, is there someone who inquired about this before Kant made such arguments famous to the overall public? And perhaps deeper, and harder questions to answer, such as wondering whether Kant, like Socrates, would agree that any type of learning is impossible?_
 
+# The Narrowed Question
+Some problems the initial question posed were the ability to find primary sources in English. Given that Kant was a German philosopher, related works, and works that could have possibly influenced him, were most likely to be in German or Latin. Ironically, broadening the initial question from focusing less on Kant but more to English works during the 18th century helped mitigate this. (Who knew a narrowed question would actually end up being a bit more general in this case?)
 
+### _What were the popular arguments on learning and knowledge in the 18th century, and how common were arguments about the paradox nature of learning during this time period?_
+
+This question still allows me to still explore ideas that I had in my general question, such as exploring Kant’s possible inspiration for formulating such thoughts about _a posteriori_ and _a priori_ knowledge, and whether any such discussions were popular in the 18th century. This allows me to also explore whether Kant’s argument was truly novel or whether hewas simply popularizing ideas that were already being surfaced by other philosophers of the time.
 
